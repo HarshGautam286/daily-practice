@@ -2,4 +2,6 @@
 My daily coding practice
 ## Day 1
 Started GitHub learning 🚀
+## Day 2
+Learned basic Python print and variables
 
