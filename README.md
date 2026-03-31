@@ -8,5 +8,6 @@ Learned basic Python print and variables
 Learned Python input
 Tried input() function examples
 Learned if-else conditions
+Solved basic practice questions
 
 
