@@ -6,4 +6,5 @@ Started GitHub learning 🚀
 Learned basic Python print and variables
 ## Day 3
 Learned Python input
+Tried input() function examples
 
