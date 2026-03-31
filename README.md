@@ -5,5 +5,5 @@ Started GitHub learning 🚀
 ## Day 2
 Learned basic Python print and variables
 ## Day 3
-Learned Python data types (int, float, string, list)
+Learned Python input
 
