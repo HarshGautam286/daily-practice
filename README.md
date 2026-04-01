@@ -21,4 +21,8 @@ Loops in Python (for loop, while loop)
 	•	while loop basics
 	•	range() function
 	•	loop control (break, continue)
+3️⃣ Practice Done
+	•	Numbers print karna (1–10)
+	•	Even/Odd check
+	•	Table print program
 
