@@ -25,4 +25,19 @@ Loops in Python (for loop, while loop)
 	•	Numbers print karna (1–10)
 	•	Even/Odd check
 	•	Table print program
+4️⃣ Example Code
+    # for loop example
+    for i in range(1, 6):
+
+
+
+
+
+
+
+
+
+
+
+
 
