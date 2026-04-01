@@ -28,7 +28,13 @@ Loops in Python (for loop, while loop)
 4️⃣ Example Code
     # for loop example
     for i in range(1, 6):
+        print(i)
 
+# while loop example
+i = 1
+while i <= 5:
+    print(i)
+    i += 1
 
 
 
