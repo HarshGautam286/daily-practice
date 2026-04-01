@@ -9,5 +9,7 @@ Learned Python input
 Tried input() function examples
 Learned if-else conditions
 Solved basic practice questions
-
+## Day 4
+1️⃣ Topic Learned
+Loops in Python (for loop, while loop)
 
