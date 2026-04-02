@@ -36,11 +36,10 @@ while i <= 5:
     print(i)
     i += 1
 
+##Day 5
 
-hye
-no
-yes
-yes
+1️⃣ Topic Learned
+Functions in Python
 
 
 
