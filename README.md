@@ -36,10 +36,16 @@ while i <= 5:
     print(i)
     i += 1
 
-##Day 5
+## Day 5
 
 1️⃣ Topic Learned
 Functions in Python
+
+2️⃣ Concepts Covered
+	•	function definition (def)
+	•	parameters & arguments
+	•	return statement
+	•	built-in vs user-defined functions
 
 
 
