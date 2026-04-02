@@ -47,7 +47,12 @@ Functions in Python
 	•	return statement
 	•	built-in vs user-defined functions
 
+3️⃣ Practice Done
+	•	simple function bana ke print karna
+	•	add/multiply function
+	•	even/odd using function
 
+4️⃣ Example Code
 
 
 
