@@ -64,7 +64,7 @@ print(result)
 Learned Python functions (def)
 Practiced creating and calling functions
 Understood parameters and return values
-
+Solved basic
 
 
 
