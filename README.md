@@ -61,7 +61,7 @@ result = add(5, 3)
 print(result)
 
 ## Day 6
-
+Learned Python functions (def)
 
 
 
