@@ -63,6 +63,7 @@ print(result)
 ## Day 6
 Learned Python functions (def)
 Practiced creating and calling functions
+Understood parameters and return values
 
 
 
