@@ -81,7 +81,8 @@ Solved basic function-based questions
 • pattern printing basic 
 
 4️⃣ Example Code:
-
+for i in range(1, 6):
+    print(i)
 
 
 
