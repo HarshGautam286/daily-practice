@@ -66,6 +66,10 @@ Practiced creating and calling functions
 Understood parameters and return values
 Solved basic function-based questions
 
+### Day 7
+
+1️⃣ Topic Learned: Loops (for loop)
+
 
 
 
