@@ -77,7 +77,10 @@ Solved basic function-based questions
 • numbers print using loop  
 • sum of numbers  
 • pattern printing basic 
-
+3️⃣ Practice Done:
+• numbers print using loop  
+• sum of numbers  
+• pattern printing basic 
 
 
 
