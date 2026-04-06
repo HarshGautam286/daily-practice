@@ -80,7 +80,7 @@ Solved basic function-based questions
 • sum of numbers  
 • pattern printing basic 
 
-
+4️⃣ Example Code:
 
 
 
