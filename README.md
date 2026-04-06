@@ -73,7 +73,10 @@ Solved basic function-based questions
 • for loop syntax  
 • range() function  
 • loop control (break, continue)
-
+3️⃣ Practice Done:
+• numbers print using loop  
+• sum of numbers  
+• pattern printing basic 
 
 
 
