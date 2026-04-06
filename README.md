@@ -69,18 +69,17 @@ Solved basic function-based questions
 ### Day 7
 
 1️⃣ Topic Learned: Loops (for loop)
+
 2️⃣ Concepts Covered:
 • for loop syntax  
 • range() function  
 • loop control (break, continue)
+
 3️⃣ Practice Done:
 • numbers print using loop  
 • sum of numbers  
 • pattern printing basic 
-3️⃣ Practice Done:
-• numbers print using loop  
-• sum of numbers  
-• pattern printing basic 
+
 
 
 
