@@ -88,6 +88,7 @@ for i in range(1, 6):
 
  While Loop
 •	while loop syntax
+•	infinite loop kya hota hai
 
 
 
