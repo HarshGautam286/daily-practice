@@ -86,12 +86,15 @@ for i in range(1, 6):
 
 ## Day 8 
 
-1️⃣ While Loop
+1️⃣ While Loop 
 •	while loop syntax
+
 •	infinite loop kya hota hai
+
 •	break & continue use
 
 👉 Practice:
+	•	1–10 print
 
 
 
