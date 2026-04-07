@@ -84,11 +84,13 @@ Solved basic function-based questions
 for i in range(1, 6):
     print(i)
 
-##Day 8 
+## Day 8 
 
- While Loop
+While Loop
 •	while loop syntax
 •	infinite loop kya hota hai
+•	break & continue use
+
 
 
 
