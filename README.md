@@ -85,7 +85,9 @@ for i in range(1, 6):
     print(i)
 
 ##Day 8 
-→ While Loop
+
+ While Loop
+•	while loop syntax
 
 
 
