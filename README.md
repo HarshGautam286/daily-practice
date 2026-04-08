@@ -103,6 +103,10 @@ for i in range(1, 6):
 • if, elif, else syntax
 • nested if
 • comparison operators
+3️⃣ Practice Done:
+• even/odd check
+• max of 2 numbers
+• simple grading system
 
 
 
