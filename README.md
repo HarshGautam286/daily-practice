@@ -83,19 +83,20 @@ Solved basic function-based questions
 4️⃣ Example Code:
 for i in range(1, 6):
     print(i)
+	
+## Day 8  
 
-## Day 8 
+1️⃣ While Loop  
 
-1️⃣ While Loop 
-•	while loop syntax
-•	infinite loop kya hota hai
-•	break & continue use
+• while loop syntax  
+• infinite loop kya hota hai  
+• break & continue use  
 
-👉 Practice:
+👉 Practice:  
 
-•	1–10 print
-• 	even numbers print
-• 	password retry program
+• 1–10 print  
+• even numbers print  
+• password retry program  
 
 ## Day 9
 1️⃣ Topic Learned: Conditional Statements (if-else)
