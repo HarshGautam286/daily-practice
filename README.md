@@ -107,6 +107,8 @@ for i in range(1, 6):
 • even/odd check
 • max of 2 numbers
 • simple grading system
+4️⃣ Example Code:
+if x > 10: print("Greater") else: print("Smaller")
 
 
 
