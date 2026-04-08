@@ -99,7 +99,10 @@ for i in range(1, 6):
 
 ## Day 9
 1️⃣ Topic Learned: Conditional Statements (if-else)
-
+2️⃣ Concepts Covered:
+• if, elif, else syntax
+• nested if
+• comparison operators
 
 
 
