@@ -98,19 +98,25 @@ for i in range(1, 6):
 • even numbers print  
 • password retry program  
 
-## Day 9
-1️⃣ Topic Learned: Conditional Statements (if-else)
-2️⃣ Concepts Covered:
-• if, elif, else syntax
-• nested if
-• comparison operators
-3️⃣ Practice Done:
-• even/odd check
-• max of 2 numbers
-• simple grading system
-4️⃣ Example Code:
-if x > 10: print("Greater") else: print("Smaller")
+## Day 9  
 
+1️⃣ Topic Learned: Conditional Statements (if-else)  
+
+2️⃣ Concepts Covered:  
+• if, elif, else syntax  
+• nested if  
+• comparison operators  
+
+3️⃣ Practice Done:  
+• even/odd check  
+• max of 2 numbers  
+• simple grading system  
+
+4️⃣ Example Code:  
+if x > 10:  
+    print("Greater")  
+else:  
+    print("Smaller")  
 
 
 
