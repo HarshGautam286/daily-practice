@@ -95,12 +95,10 @@ for i in range(1, 6):
 •	break & continue use
 
 👉 Practice:
-	
-•	1–10 print
 
-•	even numbers print
-
-•	password retry program
+• 1–10 print
+• even numbers print
+• password retry program
 
 ## Day 9
 
