@@ -126,6 +126,10 @@ else:
 •	list creation
 	•	indexing & slicing
 	•	list methods (append, remove, pop)
+3️⃣ Practice Done:
+	•	list me values add/remove
+	•	max & min find kiya
+	•	simple list iteration
 
 
 
