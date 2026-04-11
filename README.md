@@ -131,6 +131,7 @@ else:
 	•	max & min find kiya
 	•	simple list iteration
 
+4️⃣ Example Code:
 
 
 
