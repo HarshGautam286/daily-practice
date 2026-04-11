@@ -119,6 +119,7 @@ else:
     print("Smaller")  
 
 ## Day 10
+1️⃣ Topic Learned: Lists in Python
 
 
 
