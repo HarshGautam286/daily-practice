@@ -120,7 +120,12 @@ else:
 
 ## Day 10
 1️⃣ Topic Learned: Lists in Python
+
 2️⃣ Concepts Covered:
+
+•	list creation
+	•	indexing & slicing
+	•	list methods (append, remove, pop)
 
 
 
