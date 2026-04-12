@@ -142,6 +142,9 @@ print(nums)
 	•	tuple creation
 	•	indexing & slicing
 	•	immutable (change nahi hota)
+3️⃣ Practice Done:
+	•	elements access
+	•	count & index functions
 
 
 
