@@ -139,6 +139,9 @@ print(nums)
 ## Day 11
 1️⃣ Topic Learned: Tuples in Python
 2️⃣ Concepts Covered:
+	•	tuple creation
+	•	indexing & slicing
+	•	immutable (change nahi hota)
 
 
 
