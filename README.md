@@ -146,6 +146,8 @@ print(nums)
 	•	elements access
 	•	count & index functions
 4️⃣ Example Code:
+nums = (1, 2, 3)
+print(nums[0])
 
 
 
