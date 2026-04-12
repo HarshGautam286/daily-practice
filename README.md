@@ -138,7 +138,7 @@ print(nums)
 
 ## Day 11
 1️⃣ Topic Learned: Tuples in Python
-
+2️⃣ Concepts Covered:
 
 
 
