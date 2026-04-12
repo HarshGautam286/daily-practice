@@ -145,7 +145,7 @@ print(nums)
 3️⃣ Practice Done:
 	•	elements access
 	•	count & index functions
-
+4️⃣ Example Code:
 
 
 
