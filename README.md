@@ -150,6 +150,7 @@ nums = (1, 2, 3)
 print(nums[0])
 
 ## Day 12
+• Topic Learned: Dictionaries in Python
 
 
 
