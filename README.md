@@ -159,6 +159,8 @@ print(nums[0])
 
 • Practice Done:
 	•	student data store kiya (name, age, marks)
+	•	values access & update ki
+	•	loop se dictionary print ki
 
 
 
