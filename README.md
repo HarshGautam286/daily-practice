@@ -151,6 +151,9 @@ print(nums[0])
 
 ## Day 12
 • Topic Learned: Dictionaries in Python
+• Concepts Covered:
+	•	key-value pairs
+	•	accessing values (keys)
 
 
 
