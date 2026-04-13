@@ -161,7 +161,10 @@ print(nums[0])
 	•	student data store kiya (name, age, marks)
 	•	values access & update ki
 	•	loop se dictionary print ki
-
+	
+• Example Code:
+student = {“name”: “Harsh”, “age”: 22}
+print(student[“name”])
 
 
 
