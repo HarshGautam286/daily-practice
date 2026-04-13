@@ -153,7 +153,9 @@ print(nums[0])
 • Topic Learned: Dictionaries in Python
 • Concepts Covered:
 	•	key-value pairs
-	•	accessing values (keys)
+	•	accessing values 
+	•	add/update/delete elements
+	•	methods: keys(), values(), items()
 
 
 
