@@ -157,6 +157,9 @@ print(nums[0])
 	•	add/update/delete elements
 	•	methods: keys(), values(), items()
 
+• Practice Done:
+	•	student data store kiya (name, age, marks)
+
 
 
 
