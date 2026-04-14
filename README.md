@@ -178,6 +178,8 @@ Topic Learned: File Handling in Python 📁
 •	Practice Done:
  • created and wrote to a text file • read file content • appended new data without overwriting
 
+ •	Example Code:
+
 
 
 
