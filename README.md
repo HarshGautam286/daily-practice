@@ -179,6 +179,8 @@ Topic Learned: File Handling in Python 📁
  • created and wrote to a text file • read file content • appended new data without overwriting
 
  •	Example Code:
+ # Write to a file
+with open("myfile.txt", "w") as f:
 
 
 
