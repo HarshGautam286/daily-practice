@@ -181,6 +181,8 @@ Topic Learned: File Handling in Python 📁
  •	Example Code:
  # Write to a file
 with open("myfile.txt", "w") as f:
+    f.write("Hello, World!\n")
+    f.write("Day 12 of Python\n")
 
 
 
