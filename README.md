@@ -66,7 +66,7 @@ Practiced creating and calling functions
 Understood parameters and return values
 Solved basic function-based questions
 
-### Day 7
+## Day 7
 
 1️⃣ Topic Learned: Loops (for loop)
 
@@ -165,6 +165,9 @@ print(nums[0])
 • Example Code:
 student = {“name”: “Harsh”, “age”: 22}
 print(student[“name”])
+
+## Day 13
+
 
 
 
