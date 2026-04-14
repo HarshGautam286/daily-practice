@@ -168,8 +168,12 @@ print(student[“name”])
 
 ## Day 13
 Topic Learned: File Handling in Python 📁
-
-
+•	Concepts Covered: 
+• file open/close 
+• read, write, append modes 
+• with statement (context manager)
+• reading line by line
+• writing multiple lines
 
 
 
