@@ -167,6 +167,7 @@ student = {“name”: “Harsh”, “age”: 22}
 print(student[“name”])
 
 ## Day 13
+Topic Learned: File Handling in Python 📁
 
 
 
