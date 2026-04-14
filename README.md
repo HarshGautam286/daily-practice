@@ -176,7 +176,7 @@ Topic Learned: File Handling in Python 📁
 • writing multiple lines
 
 •	Practice Done:
-
+ • created and wrote to a text file • read file content • appended new data without overwriting
 
 
 
