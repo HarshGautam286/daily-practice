@@ -179,16 +179,16 @@ Topic Learned: File Handling in Python 📁
  • created and wrote to a text file • read file content • appended new data without overwriting
 
  •	Example Code:
- # Write to a file
+ Write to a file
 with open("myfile.txt", "w") as f:
     f.write("Hello, World!\n")
     f.write("Day 12 of Python\n")
-# Read from a file
+Read from a file
 with open("myfile.txt", "r") as f:
     for line in f:
         print(line.strip())
 
-# Append to a file
+Append to a file
 with open("myfile.txt", "a") as f:
     f.write("Appended this line\n")
 
