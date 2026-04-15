@@ -197,5 +197,6 @@ Exception Handling in Python 🛡️
 Topics to cover:
 	•	try, except, else, finally
 	•	Catching specific exceptions (ValueError, TypeError, FileNotFoundError)
+		•	Raising exceptions manually (raise
 
 
