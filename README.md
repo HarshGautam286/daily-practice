@@ -194,7 +194,8 @@ with open("myfile.txt", "a") as f:
 
 ## Day 14 
 Exception Handling in Python 🛡️
-
+Topics to cover:
+	•	try, except, else, finally
 
 
 
