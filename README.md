@@ -193,6 +193,7 @@ with open("myfile.txt", "a") as f:
     f.write("Appended this line\n")
 
 ## Day 14 
+Exception Handling in Python 🛡️
 
 
 
