@@ -196,6 +196,6 @@ with open("myfile.txt", "a") as f:
 Exception Handling in Python 🛡️
 Topics to cover:
 	•	try, except, else, finally
-
+	•	Catching specific exceptions (ValueError, TypeError, FileNotFoundError)
 
 
