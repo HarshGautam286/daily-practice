@@ -207,4 +207,8 @@ Topics to cover:
 •	file pointer (seek, tell)
 •	with open() best practice
 
+• Practice Done:
+	•	File read & write program
+	•	Line by line data fetch
+
 
