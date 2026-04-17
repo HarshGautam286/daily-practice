@@ -210,5 +210,6 @@ Topics to cover:
 • Practice Done:
 	•	File read & write program
 	•	Line by line data fetch
+• Example Code:
 
 
