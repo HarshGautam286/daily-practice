@@ -211,6 +211,7 @@ Topics to cover:
 	•	File read & write program
 	•	Line by line data fetch
 • Example Code:
-	•	with open(“file.txt”,“r”) as f
+•	with open(“file.txt”,“r”) as f
+•	data = f.read()
 
 
