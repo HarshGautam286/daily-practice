@@ -215,5 +215,6 @@ Topics to cover:
 •	data = f.read()
 
 ## Day 16
+• Topic: File Handling (Advanced) 📂
 
 
