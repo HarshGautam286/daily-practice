@@ -202,5 +202,7 @@ Topics to cover:
 
 ## Day 15
 • Topic Learned: File Handling (Advanced)
+• Concepts Covered:
+	•	read(), readline(), readlines() difference
 
 
