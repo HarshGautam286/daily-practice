@@ -216,5 +216,6 @@ Topics to cover:
 
 ## Day 16
 • Topic: File Handling (Advanced) 📂
+• Concepts Covered: read(), write(), append(), with statement
 
 
