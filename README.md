@@ -205,5 +205,6 @@ Topics to cover:
 • Concepts Covered:
 •	read(), readline(), readlines() difference
 •	file pointer (seek, tell)
+•	with open() best practice
 
 
