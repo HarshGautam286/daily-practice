@@ -201,5 +201,6 @@ Topics to cover:
 			•	Custom exception classes
 
 ## Day 15
+• Topic Learned: File Handling (Advanced)
 
 
