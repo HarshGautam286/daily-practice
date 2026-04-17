@@ -211,5 +211,6 @@ Topics to cover:
 	•	File read & write program
 	•	Line by line data fetch
 • Example Code:
+	•	with open(“file.txt”,“r”) as f
 
 
