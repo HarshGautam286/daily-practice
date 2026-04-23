@@ -220,3 +220,10 @@ Topics to cover:
 • Practice Done: file create ki, data write & read kiya, append use kiya
 • Example Code:
 file open karke data likha & dubara read karke print kiya
+
+## Day 17
+
+
+
+
+
