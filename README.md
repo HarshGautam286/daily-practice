@@ -226,6 +226,7 @@ file open karke data likha & dubara read karke print kiya
 * Concepts Covered: Reading/Writing files, modes (r, w, a), error handling basics
 * Practice Done: Open file → read data → handle errors using try-except
 * Example Code:
+try:
 
 
 
