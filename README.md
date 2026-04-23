@@ -223,7 +223,7 @@ file open karke data likha & dubara read karke print kiya
 
 ## Day 17
 * Topic Learned: File Handling (Advanced)  + Exception Handling (try, except, finally)
-
+* Concepts Covered: Reading/Writing files, modes (r, w, a), error handling basics
 
 
 
