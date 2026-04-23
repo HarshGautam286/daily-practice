@@ -227,6 +227,9 @@ file open karke data likha & dubara read karke print kiya
 * Practice Done: Open file → read data → handle errors using try-except
 * Example Code:
 try:
+     file = open("data.txt", "r")
+    content = file.read()
+    print(content)
 
 
 
