@@ -222,6 +222,7 @@ Topics to cover:
 file open karke data likha & dubara read karke print kiya
 
 ## Day 17
+* Topic Learned: File Handling (Advanced)  + Exception Handling (try, except, finally)
 
 
 
