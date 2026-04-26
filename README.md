@@ -247,6 +247,8 @@ except FileNotFoundError:
     * Addition, subtraction, multiplication
 * Shape & size check:
     * .shape, .size
+* Practice:
+    * 2 arrays bnao aur unpe operations perform kro
          
   
 
