@@ -245,6 +245,8 @@ except FileNotFoundError:
 * Array indexing & slicing basics
 * Basic operations:
     * Addition, subtraction, multiplication
+* Shape & size check:
+    * .shape, .size
          
   
 
