@@ -249,6 +249,7 @@ except FileNotFoundError:
     * .shape, .size
 * Practice:
     * 2 arrays bnao aur unpe operations perform kro
+    * Slicing ka ek example try kro
          
   
 
