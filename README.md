@@ -241,6 +241,8 @@ except FileNotFoundError:
 * Array create karna:
     * np.array()
     * np.zeros(), np.ones()
+* 1D vs 2D array ka concept
+* Array indexing & slicing basics
          
   
 
