@@ -238,6 +238,9 @@ except FileNotFoundError:
 ##  Day 18
 * Topic: NumPy Basics (Python Library)
 * NumPy kya hota h & use kyu krte h (fast calculations, arrays)
+* Array create karna:
+    * np.array()
+    * np.zeros(), np.ones()
          
   
 
