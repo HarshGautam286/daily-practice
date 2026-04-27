@@ -253,7 +253,7 @@ except FileNotFoundError:
          
  ## Day 19
 🔹 Topic Learned: NumPy (Advanced)
-
+🔹 Concepts Covered:
 
 
 
