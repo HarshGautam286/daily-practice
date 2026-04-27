@@ -263,7 +263,7 @@ except FileNotFoundError:
 * mean, sum nikalna sikha
 * 2D array par row/column operations kiye
 
-
+## ✅ Day 20
 
 
 
