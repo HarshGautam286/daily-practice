@@ -267,6 +267,7 @@ except FileNotFoundError:
 📌 Topic Learned: Pandas Basics (Data Analysis start)
 📘 Concepts Covered:
 	*	Pandas kya hota hai (data handling library)
+	* Series vs DataFrame
 
 
 
