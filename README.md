@@ -265,7 +265,7 @@ except FileNotFoundError:
 
 ## ✅ Day 20
 📌 Topic Learned: Pandas Basics (Data Analysis start)
-
+📘 Concepts Covered:
 
 
 
