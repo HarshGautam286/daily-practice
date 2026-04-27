@@ -258,6 +258,7 @@ except FileNotFoundError:
 *	broadcasting kya hota h
 *	mathematical functions (sum, mean, max, min)
 *	axis concept (row/column wise operations)
+🔹 Practice Done:
 
 
 
