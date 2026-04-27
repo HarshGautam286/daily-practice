@@ -264,7 +264,7 @@ except FileNotFoundError:
 * 2D array par row/column operations kiye
 
 ## ✅ Day 20
-
+📌 Topic Learned: Pandas Basics (Data Analysis start)
 
 
 
