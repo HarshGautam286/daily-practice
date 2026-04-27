@@ -259,6 +259,9 @@ except FileNotFoundError:
 *	mathematical functions (sum, mean, max, min)
 *	axis concept (row/column wise operations)
 🔹 Practice Done:
+* arrays par direct operations perform kiye
+* mean, sum nikalna sikha
+* 2D array par row/column operations kiye
 
 
 
