@@ -276,6 +276,8 @@ except FileNotFoundError:
 *	.shape aur .info() basics
 🧠 Practice Done:
 *	Simple dataset banaya (name, age, marks)
+*	Columns select kiye (df['name'])
+*	First 5 rows print ki (df.head())
 	
 
 
