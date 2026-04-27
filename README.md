@@ -252,6 +252,21 @@ except FileNotFoundError:
     * Slicing ka ek example try kro
          
  ## Day 19
+🔹 Topic Learned: NumPy (Advanced)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
