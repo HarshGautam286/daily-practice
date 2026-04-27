@@ -275,6 +275,7 @@ except FileNotFoundError:
 *	.head() , .tail() use
 *	.shape aur .info() basics
 🧠 Practice Done:
+*	Simple dataset banaya (name, age, marks)
 	
 
 
