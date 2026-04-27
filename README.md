@@ -274,6 +274,7 @@ except FileNotFoundError:
 *	Columns aur rows access karna
 *	.head() , .tail() use
 *	.shape aur .info() basics
+🧠 Practice Done:
 	
 
 
