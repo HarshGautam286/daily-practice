@@ -278,6 +278,7 @@ except FileNotFoundError:
 *	Simple dataset banaya (name, age, marks)
 *	Columns select kiye (df['name'])
 *	First 5 rows print ki (df.head())
+*	Data ka size check kiya
 	
 
 
