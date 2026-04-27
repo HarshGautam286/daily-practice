@@ -255,6 +255,9 @@ except FileNotFoundError:
 🔹 Topic Learned: NumPy (Advanced)
 🔹 Concepts Covered:
 *	array operations (vectorization)
+*	broadcasting kya hota h
+*	mathematical functions (sum, mean, max, min)
+*	axis concept (row/column wise operations)
 
 
 
