@@ -266,8 +266,15 @@ except FileNotFoundError:
 ## ✅ Day 20
 📌 Topic Learned: Pandas Basics (Data Analysis start)
 📘 Concepts Covered:
-	*	Pandas kya hota hai (data handling library)
-	* Series vs DataFrame
+*	Pandas kya hota hai (data handling library)
+*	Series vs DataFrame
+*	DataFrame create karna:
+	*	list se
+ 	*	dictionary se
+*	Columns aur rows access karna
+*	.head() , .tail() use
+*	.shape aur .info() basics
+	
 
 
 
