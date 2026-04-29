@@ -294,6 +294,9 @@ except FileNotFoundError:
 	*	sort_values()
 🧠 Practice Done:
 *	80 se zyada marks wale students nikale
+*	Age + marks combine condition lagayi
+*	Top scorer find kiya
+*	Data ko ascending / descending sort kiya
 
 
 
