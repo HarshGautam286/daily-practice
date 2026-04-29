@@ -279,7 +279,8 @@ except FileNotFoundError:
 *	Columns select kiye (df['name'])
 *	First 5 rows print ki (df.head())
 *	Data ka size check kiya
-	
+  
+## ✅ Day 21
 
 
 
