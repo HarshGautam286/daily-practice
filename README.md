@@ -283,7 +283,11 @@ except FileNotFoundError:
 ## ✅ Day 21
 📌 Topic Learned: Data Filtering & Selection (Pandas)
 📘 Concepts Covered:
-
+*	Condition laga ke data filter karna
+*	Single condition:
+  *	df[df['marks'] > 80]
+*  Multiple conditions:
+ * & (and), | (or)
 
 
 
