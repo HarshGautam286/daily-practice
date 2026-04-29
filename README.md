@@ -292,6 +292,7 @@ except FileNotFoundError:
 *	.loc[] use karna
 *	Sorting:
 	*	sort_values()
+🧠 Practice Done:
 
 
 
