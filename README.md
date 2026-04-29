@@ -293,6 +293,7 @@ except FileNotFoundError:
 *	Sorting:
 	*	sort_values()
 🧠 Practice Done:
+*	80 se zyada marks wale students nikale
 
 
 
