@@ -285,10 +285,13 @@ except FileNotFoundError:
 📘 Concepts Covered:
 *	Condition laga ke data filter karna
 *	Single condition:
-  *	df[df['marks'] > 80]
+	*	df[df['marks'] > 80]
 *  Multiple conditions:
- * & (and), | (or)
-
+	* 	& (and), | (or)
+*	Specific columns ke saath filter
+*	.loc[] use karna
+*	Sorting:
+	*	sort_values()
 
 
 
