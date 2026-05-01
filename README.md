@@ -300,7 +300,7 @@ except FileNotFoundError:
 
 ## Day 22
 📘 Topic Learned: Data Visualization (Matplotlib Basics)
-
+📚 Concepts Covered:
 
 
 
