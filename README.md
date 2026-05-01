@@ -301,6 +301,8 @@ except FileNotFoundError:
 ## Day 22
 📘 Topic Learned: Data Visualization (Matplotlib Basics)
 📚 Concepts Covered:
+*	What is data visualization & why use it
+*	
 
 
 
