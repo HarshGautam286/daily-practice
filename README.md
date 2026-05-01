@@ -305,8 +305,10 @@ except FileNotFoundError:
 *	Importing library: import matplotlib.pyplot as plt
 *	Basic plots:
 	*	Line plot → plt.plot()
- *	Bar chart → plt.bar()
- *	Scatter plot → plt.scatter()
+	*	Bar chart → plt.bar()
+	*	Scatter plot → plt.scatter()
+*	Labels & title:
+	*	plt.xlabel()	
 
 
 
