@@ -299,6 +299,7 @@ except FileNotFoundError:
 *	Data ko ascending / descending sort kiya
 
 ## Day 22
+📘 Topic Learned: Data Visualization (Matplotlib Basics)
 
 
 
