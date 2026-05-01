@@ -312,7 +312,10 @@ except FileNotFoundError:
 	*	plt.ylabel()
 	*	plt.title()
 *	Showing graph → plt.show()
-
+🛠 Practice Done:
+*	Simple line graph (marks vs days)
+*	Bar chart (subjects vs marks)
+*	Scatter plot (random data points)
 
 
 
