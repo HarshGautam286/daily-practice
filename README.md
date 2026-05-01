@@ -302,7 +302,9 @@ except FileNotFoundError:
 📘 Topic Learned: Data Visualization (Matplotlib Basics)
 📚 Concepts Covered:
 *	What is data visualization & why use it
-*	
+*	Importing library: import matplotlib.pyplot as plt
+*	Basic plots:
+	*	Line plot → plt.plot()
 
 
 
