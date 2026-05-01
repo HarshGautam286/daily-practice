@@ -308,7 +308,9 @@ except FileNotFoundError:
 	*	Bar chart → plt.bar()
 	*	Scatter plot → plt.scatter()
 *	Labels & title:
-	*	plt.xlabel()	
+	*	plt.xlabel()
+	*	plt.ylabel()
+	*	plt.title()
 
 
 
