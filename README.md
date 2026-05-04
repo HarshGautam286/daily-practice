@@ -322,3 +322,4 @@ except FileNotFoundError:
 * Class & Object (quick recap)
 * Constructor (__init__)
 * Instance vs Class variables
+* self ka proper use
