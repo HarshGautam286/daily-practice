@@ -318,6 +318,7 @@ except FileNotFoundError:
 *	Scatter plot (random data points)
 
 ✅ Day 23 Plan (OOP + Practice Upgrade)
+🔹 1. OOP Concepts Revision (Deep)
 
 
 
