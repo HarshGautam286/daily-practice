@@ -323,3 +323,13 @@ except FileNotFoundError:
 * Constructor (__init__)
 * Instance vs Class variables
 * self ka proper use
+
+🔹 2. New Topic: Inheritance
+
+* Types:
+    * Single Inheritance
+    * Multiple Inheritance (basic idea)
+* super() ka use
+* Example bana:
+    * Parent: Animal
+    * Child: Dog, Cat
