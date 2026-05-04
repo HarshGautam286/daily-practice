@@ -321,4 +321,4 @@ except FileNotFoundError:
 🔹 1. OOP Concepts Revision (Deep)
 * Class & Object (quick recap)
 * Constructor (__init__)
-
+* Instance vs Class variables
