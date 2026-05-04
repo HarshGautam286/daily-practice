@@ -317,7 +317,7 @@ except FileNotFoundError:
 *	Bar chart (subjects vs marks)
 *	Scatter plot (random data points)
 
-
+✅ Day 23 Plan (OOP + Practice Upgrade)
 
 
 
