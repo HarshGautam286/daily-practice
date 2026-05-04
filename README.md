@@ -319,6 +319,6 @@ except FileNotFoundError:
 
 ✅ Day 23 Plan (OOP + Practice Upgrade)
 🔹 1. OOP Concepts Revision (Deep)
-
+* Class & Object (quick recap)
 
 
