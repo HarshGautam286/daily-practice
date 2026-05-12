@@ -336,6 +336,7 @@ except FileNotFoundError:
 
 ## Day 24 📊
 *	NumPy basics
+*	Pandas basics
 
 
 
