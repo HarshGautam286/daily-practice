@@ -334,8 +334,8 @@ except FileNotFoundError:
     * Parent: Animal
     * Child: Dog, Cat
 
-## Day 23 📊
-
+## Day 24 📊
+*	NumPy basics
 
 
 
