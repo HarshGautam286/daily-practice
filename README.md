@@ -317,7 +317,7 @@ except FileNotFoundError:
 *	Bar chart (subjects vs marks)
 *	Scatter plot (random data points)
 
-✅ Day 23 Plan (OOP + Practice Upgrade)
+## ✅ Day 23 Plan (OOP + Practice Upgrade)
 🔹 1. OOP Concepts Revision (Deep)
 * Class & Object (quick recap)
 * Constructor (__init__)
@@ -333,3 +333,28 @@ except FileNotFoundError:
 * Example bana:
     * Parent: Animal
     * Child: Dog, Cat
+
+## Day 23 📊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
