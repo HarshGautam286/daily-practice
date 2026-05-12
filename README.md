@@ -338,6 +338,7 @@ except FileNotFoundError:
 *	NumPy basics
 *	Pandas basics
 *	DataFrame + CSV
+*	Filtering + summary functions
 
 
 
