@@ -347,6 +347,7 @@ Project: Student Result Analyzer ✅
 *	File Handling (read/write/append)
 *	JSON basics (load/dump)
 *	Try/Except
+*	Mini Project: To-Do App (JSON file based) ✅
 
 
 
