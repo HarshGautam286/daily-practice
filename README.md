@@ -123,13 +123,13 @@ else:
 
 2️⃣ Concepts Covered:
 
-•	list creation
-	•	indexing & slicing
-	•	list methods (append, remove, pop)
+*	list creation
+	*	indexing & slicing
+	*	list methods (append, remove, pop)
 3️⃣ Practice Done:
-	•	list me values add/remove
-	•	max & min find kiya
-	•	simple list iteration
+	*	list me values add/remove
+	*	max & min find kiya
+	*	simple list iteration
 
 4️⃣ Example Code:
 nums = [1, 2, 3, 4]
