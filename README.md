@@ -345,6 +345,7 @@ Project: Student Result Analyzer ✅
 
 ## Day 25 🚀
 *	File Handling (read/write/append)
+*	JSON basics (load/dump)
 
 
 
