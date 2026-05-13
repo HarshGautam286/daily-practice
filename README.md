@@ -126,6 +126,7 @@ else:
 *	list creation
 	*	indexing & slicing
 	*	list methods (append, remove, pop)
+ 
 3️⃣ Practice Done:
 	*	list me values add/remove
 	*	max & min find kiya
@@ -138,10 +139,11 @@ print(nums)
 
 ## Day 11
 1️⃣ Topic Learned: Tuples in Python
+
 2️⃣ Concepts Covered:
-	•	tuple creation
-	•	indexing & slicing
-	•	immutable (change nahi hota)
+	*	tuple creation
+	*	indexing & slicing
+	*	immutable (change nahi hota)
 3️⃣ Practice Done:
 	•	elements access
 	•	count & index functions
