@@ -358,6 +358,7 @@ Project: Student Result Analyzer ✅
 *	Labels + title + legend
 
 Task: Sales data charts banao
+
 Project: Simple Data Dashboard ✅
 
 
