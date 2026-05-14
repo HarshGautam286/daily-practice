@@ -355,6 +355,7 @@ Project: Student Result Analyzer ✅
 *	Data visualization basics
 *	Matplotlib intro
 *	Line, Bar, Pie chart
+*	Labels + title + legend
 
 
 
