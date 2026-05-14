@@ -354,6 +354,7 @@ Project: Student Result Analyzer ✅
 ## Day 26 📈
 *	Data visualization basics
 *	Matplotlib intro
+*	Line, Bar, Pie chart
 
 
 
