@@ -352,7 +352,7 @@ Project: Student Result Analyzer ✅
 *	Mini Project: To-Do App (JSON file based) ✅
 
 ## Day 26 📈
-
+*	Data visualization basics
 
 
 
