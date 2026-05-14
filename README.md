@@ -356,6 +356,7 @@ Project: Student Result Analyzer ✅
 *	Matplotlib intro
 *	Line, Bar, Pie chart
 *	Labels + title + legend
+-	Task: Sales data charts banao
 
 
 
