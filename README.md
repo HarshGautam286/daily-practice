@@ -137,17 +137,16 @@ nums = [1, 2, 3, 4]
 nums.append(5)
 print(nums)
 
-## Day 11
-1️⃣ Topic Learned: Tuples in Python
-
+## Day 11 <br>
+1️⃣ Topic Learned: Tuples in Python <br>
 2️⃣ Concepts Covered:
-	*	tuple creation
-	*	indexing & slicing
-	*	immutable (change nahi hota)
+*	tuple creation
+*	indexing & slicing
+*	immutable (change nahi hota) <br>
 3️⃣ Practice Done:
-	•	elements access
-	•	count & index functions
-4️⃣ Example Code:
+*	elements access
+*	count & index functions <br>
+4️⃣ Example Code: <br>
 nums = (1, 2, 3)
 print(nums[0])
 
