@@ -254,12 +254,12 @@ except FileNotFoundError:
     * Slicing ka ek example try kro
          
  ## Day 19
-🔹 Topic Learned: NumPy (Advanced)
-🔹 Concepts Covered:
+🔹 Topic Learned: NumPy (Advanced)  <br>
+🔹 Concepts Covered: <br>
 *	array operations (vectorization)
 *	broadcasting kya hota h
 *	mathematical functions (sum, mean, max, min)
-*	axis concept (row/column wise operations)
+*	axis concept (row/column wise operations) <br>
 🔹 Practice Done:
 * arrays par direct operations perform kiye
 * mean, sum nikalna sikha
