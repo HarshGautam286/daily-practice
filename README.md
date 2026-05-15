@@ -157,13 +157,12 @@ print(nums[0])
 	*	accessing values
 	*	add/update/delete elements
 	*	methods: keys(), values(), items()
-
 • Practice Done:
-	•	student data store kiya (name, age, marks)
-	•	values access & update ki
-	•	loop se dictionary print ki
+	*	student data store kiya (name, age, marks)
+ 	*	values access & update ki
+	*	loop se dictionary print ki
 	
-• Example Code:
+• Example Code: <br>
 student = {“name”: “Harsh”, “age”: 22}
 print(student[“name”])
 
