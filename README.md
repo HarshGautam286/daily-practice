@@ -367,7 +367,9 @@ Project: Simple Data Dashboard ✅
 *	Supervised vs Unsupervised
 *	Train/Test concept
 *	Scikit-learn intro
-  Task: Simple prediction concept samajhna
+
+Task: Simple prediction concept samajhna
+Project: Basic ML demo ✅
 
 
 
