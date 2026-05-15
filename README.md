@@ -17,17 +17,17 @@ Solved basic practice questions
 1️⃣ Topic Learned <br>
 Loops in Python (for loop, while loop) <br>
 2️⃣ Concepts Covered
-	•	for loop basics
-	•	while loop basics
-	•	range() function
-	•	loop control (break, continue) <br>
+*	for loop basics
+*	while loop basics
+*	range() function
+*	loop control (break, continue) <br>
 3️⃣ Practice Done
-	•	Numbers print karna (1–10)
-	•	Even/Odd check
-	•	Table print program <br>
+*	Numbers print karna (1–10)
+*	Even/Odd check
+*	Table print program <br>
 4️⃣ Example Code
-    # for loop example
-    for i in range(1, 6):
+*	 for loop example
+*	or i in range(1, 6): <br>
         print(i)
 
 # while loop example
