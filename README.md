@@ -363,6 +363,7 @@ Project: Simple Data Dashboard ✅
 
 ## Day 25 🤖
 *	Machine Learning intro
+*	AI vs ML basics
 
 
 
