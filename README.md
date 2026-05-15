@@ -326,8 +326,7 @@ except FileNotFoundError:
 * Instance vs Class variables
 * self ka proper use
 
-🔹 2. New Topic: Inheritance
-
+🔹 2. New Topic: Inheritance <br>
 * Types:
     * Single Inheritance
     * Multiple Inheritance (basic idea)
@@ -340,9 +339,8 @@ except FileNotFoundError:
 *	NumPy basics
 *	Pandas basics
 *	DataFrame + CSV
-*	Filtering + summary functions
-
-Task: Student marks analyze krna
+*	Filtering + summary functions <br>
+Task: Student marks analyze krna <br>
 Project: Student Result Analyzer ✅
 
 ## Day 25 🚀
@@ -355,10 +353,8 @@ Project: Student Result Analyzer ✅
 *	Data visualization basics
 *	Matplotlib intro
 *	Line, Bar, Pie chart
-*	Labels + title + legend
-
-Task: Sales data charts banao
-
+*	Labels + title + legend <br>
+Task: Sales data charts banao <br>
 Project: Simple Data Dashboard ✅
 
 ## Day 25 🤖
