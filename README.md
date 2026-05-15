@@ -368,7 +368,7 @@ Project: Simple Data Dashboard ✅
 *	Train/Test concept
 *	Scikit-learn intro
 
-Task: Simple prediction concept samajhna
+Task: Simple prediction concept samajhna <br>
 Project: Basic ML demo ✅
 
 
