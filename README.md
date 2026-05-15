@@ -366,6 +366,7 @@ Project: Simple Data Dashboard ✅
 *	AI vs ML basics
 *	Supervised vs Unsupervised
 *	Train/Test concept
+*	Scikit-learn intro
 
 
 
