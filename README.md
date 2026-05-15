@@ -142,21 +142,21 @@ print(nums)
 2️⃣ Concepts Covered:
 *	tuple creation
 *	indexing & slicing
-*	immutable (change nahi hota) <br>
+*	immutable (change nahi hota)
 3️⃣ Practice Done:
 *	elements access
-*	count & index functions <br>
+*	count & index functions
 4️⃣ Example Code: <br>
 nums = (1, 2, 3)
 print(nums[0])
 
 ## Day 12
-• Topic Learned: Dictionaries in Python
-• Concepts Covered:
-	•	key-value pairs
-	•	accessing values 
-	•	add/update/delete elements
-	•	methods: keys(), values(), items()
+*	Topic Learned: Dictionaries in Python
+*	Concepts Covered:
+	*	key-value pairs
+	*	accessing values
+	*	add/update/delete elements
+	*	methods: keys(), values(), items()
 
 • Practice Done:
 	•	student data store kiya (name, age, marks)
