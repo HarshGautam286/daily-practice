@@ -13,18 +13,18 @@ Tried input() function examples
 Learned if-else conditions
 Solved basic practice questions
 
-## Day 4
-1️⃣ Topic Learned
-Loops in Python (for loop, while loop)
+## Day 4 <br>
+1️⃣ Topic Learned <br>
+Loops in Python (for loop, while loop) <br>
 2️⃣ Concepts Covered
 	•	for loop basics
 	•	while loop basics
 	•	range() function
-	•	loop control (break, continue)
+	•	loop control (break, continue) <br>
 3️⃣ Practice Done
 	•	Numbers print karna (1–10)
 	•	Even/Odd check
-	•	Table print program
+	•	Table print program <br>
 4️⃣ Example Code
     # for loop example
     for i in range(1, 6):
