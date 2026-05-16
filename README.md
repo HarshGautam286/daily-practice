@@ -174,10 +174,12 @@ Topic Learned: File Handling in Python 📁
 *	writing multiple lines
 
 Practice Done:
- • created and wrote to a text file • read file content • appended new data without overwriting
+*	created and wrote to a text file
+*	read file content
+*	appended new data without overwriting
 
- •	Example Code:
- Write to a file
+Example Code:  
+Write to a file  
 with open("myfile.txt", "w") as f:
     f.write("Hello, World!\n")
     f.write("Day 12 of Python\n")
