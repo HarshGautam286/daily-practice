@@ -193,12 +193,12 @@ with open("myfile.txt", "a") as f:
 	f.write("Appended this line\n")
 
 ## Day 14 
-Exception Handling in Python 🛡️
-Topics to cover:
-	•	try, except, else, finally
-	•	Catching specific exceptions (ValueError, TypeError, FileNotFoundError)
-		•	Raising exceptions manually (raise
-			•	Custom exception classes
+Exception Handling in Python 🛡️  
+Topics to cover:  
+*	try, except, else, finally
+*	Catching specific exceptions (ValueError, TypeError, FileNotFoundError)
+*	Raising exceptions manually (raise
+*	Custom exception classes
 
 ## Day 15
 • Topic Learned: File Handling (Advanced)
