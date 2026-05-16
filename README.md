@@ -200,12 +200,12 @@ Topics to cover:
 *	Raising exceptions manually (raise
 *	Custom exception classes
 
-## Day 15
-• Topic Learned: File Handling (Advanced)
-• Concepts Covered:
-•	read(), readline(), readlines() difference
-•	file pointer (seek, tell)
-•	with open() best practice
+## Day 15  
+*	Topic Learned: File Handling (Advanced)
+Concepts Covered:
+*	read(), readline(), readlines() difference
+*	file pointer (seek, tell)
+*	with open() best practice
 
 • Practice Done:
 	•	File read & write program
