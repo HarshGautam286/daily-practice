@@ -180,17 +180,17 @@ Practice Done:
 
 Example Code:  
 Write to a file  
-with open("myfile.txt", "w") as f:
-    f.write("Hello, World!\n")
-    f.write("Day 12 of Python\n")
-Read from a file
-with open("myfile.txt", "r") as f:
-    for line in f:
-        print(line.strip())
-
-Append to a file
-with open("myfile.txt", "a") as f:
-    f.write("Appended this line\n")
+with open("myfile.txt", "w") as f:  
+	f.write("Hello, World!\n")  
+	f.write("Day 12 of Python\n")  
+Read from a file  
+with open("myfile.txt", "r") as f:  
+	for line in f:  
+	print(line.strip())  
+	
+Append to a file  
+with open("myfile.txt", "a") as f:  
+	f.write("Appended this line\n")
 
 ## Day 14 
 Exception Handling in Python 🛡️
