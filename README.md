@@ -214,12 +214,11 @@ Example Code:
 *	with open(“file.txt”,“r”) as f
 *	data = f.read()
 
-## Day 16
-• Topic: File Handling (Advanced) 📂
-• Concepts Covered: read(), write(), append(), with statement
-• Practice Done: file create ki, data write & read kiya, append use kiya
-• Example Code:
-file open karke data likha & dubara read karke print kiya
+## Day 16  
+*	Topic: File Handling (Advanced) 📂
+*	Concepts Covered: read(), write(), append(), with statement
+*	Practice Done: file create ki, data write & read kiya, append use kiya
+*	Example Code: file open karke data likha & dubara read karke print kiya
 
 ## Day 17
 * Topic Learned: File Handling (Advanced)  + Exception Handling (try, except, finally)
