@@ -201,18 +201,18 @@ Topics to cover:
 *	Custom exception classes
 
 ## Day 15  
-*	Topic Learned: File Handling (Advanced)
+Topic Learned:  
+*	File Handling (Advanced)
 Concepts Covered:
 *	read(), readline(), readlines() difference
 *	file pointer (seek, tell)
 *	with open() best practice
-
-• Practice Done:
-	•	File read & write program
-	•	Line by line data fetch
-• Example Code:
-•	with open(“file.txt”,“r”) as f
-•	data = f.read()
+Practice Done:
+*	File read & write program
+*	Line by line data fetch
+Example Code:
+*	with open(“file.txt”,“r”) as f
+*	data = f.read()
 
 ## Day 16
 • Topic: File Handling (Advanced) 📂
