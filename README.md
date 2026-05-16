@@ -119,7 +119,7 @@ else:
     print("Smaller")  
 
 ## Day 10
-1️⃣ Topic Learned: Lists in Python
+1️⃣ Topic Learned: Lists in Python <br>
 2️⃣ Concepts Covered:  
 *	list creation
 	*	indexing & slicing
@@ -166,14 +166,14 @@ print(student[“name”])
 
 ## Day 13
 Topic Learned: File Handling in Python 📁
-•	Concepts Covered: 
-• file open/close 
-• read, write, append modes 
-• with statement (context manager)
-• reading line by line
-• writing multiple lines
+*	Concepts Covered:
+*	file open/close
+*	read, write, append modes
+*	with statement (context manager)
+*	reading line by line
+*	writing multiple lines
 
-•	Practice Done:
+Practice Done:
  • created and wrote to a text file • read file content • appended new data without overwriting
 
  •	Example Code:
