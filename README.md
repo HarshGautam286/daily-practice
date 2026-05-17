@@ -78,7 +78,7 @@ Solved basic function-based questions
 • numbers print using loop  
 • sum of numbers  
 • pattern printing basic <br>
-4️⃣ Example Code:
+4️⃣ Example Code: <br>
 for i in range(1, 6):
     print(i)
 	
