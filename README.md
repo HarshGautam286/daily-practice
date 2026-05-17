@@ -366,7 +366,10 @@ Project: Basic ML demo ✅
 *	Input types
 *	Labels, buttons
 *	Tables revision
-*	Basic webpage layout
+*	Basic webpage layout <br>
+Task: Contact form banao
+Project: Mini Portfolio Page ✅
+
 
 
 
