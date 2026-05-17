@@ -364,6 +364,7 @@ Project: Basic ML demo ✅
 ## Day 26 🌐
 *	HTML Forms practice
 *	Input types
+*	Labels, buttons
 
 
 
