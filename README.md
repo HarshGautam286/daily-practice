@@ -367,7 +367,7 @@ Project: Basic ML demo ✅
 *	Labels, buttons
 *	Tables revision
 *	Basic webpage layout <br>
-Task: Contact form banao
+Task: Contact form banao <br>
 Project: Mini Portfolio Page ✅
 
 
