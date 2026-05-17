@@ -362,6 +362,7 @@ Task: Simple prediction concept samajhna <br>
 Project: Basic ML demo ✅
 
 ## Day 26 🌐
+*	HTML Forms practice
 
 
 
