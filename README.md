@@ -365,6 +365,7 @@ Project: Basic ML demo ✅
 *	HTML Forms practice
 *	Input types
 *	Labels, buttons
+*	Tables revision
 
 
 
