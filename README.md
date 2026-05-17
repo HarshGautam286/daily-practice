@@ -73,13 +73,11 @@ Solved basic function-based questions
 2️⃣ Concepts Covered:
 • for loop syntax  
 • range() function  
-• loop control (break, continue)
-
-3️⃣ Practice Done:
+• loop control (break, continue) <br>
+3️⃣ Practice Done: <br>
 • numbers print using loop  
 • sum of numbers  
-• pattern printing basic 
-
+• pattern printing basic <br>
 4️⃣ Example Code:
 for i in range(1, 6):
     print(i)
