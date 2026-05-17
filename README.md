@@ -53,7 +53,7 @@ Functions in Python
 	•	even/odd using function
 
 4️⃣ Example Code
-# function example
+ function example
 def add(a, b):
     return a + b
 
