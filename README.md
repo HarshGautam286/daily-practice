@@ -361,6 +361,7 @@ Project: Simple Data Dashboard ✅
 Task: Simple prediction concept samajhna <br>
 Project: Basic ML demo ✅
 
+## Day 26 🌐
 
 
 
