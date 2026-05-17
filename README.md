@@ -140,10 +140,10 @@ print(nums)
 2️⃣ Concepts Covered:
 *	tuple creation
 *	indexing & slicing
-*	immutable (change nahi hota)
+*	immutable (change nahi hota) <br>
 3️⃣ Practice Done:
 *	elements access
-*	count & index functions
+*	count & index functions <br>
 4️⃣ Example Code: <br>
 nums = (1, 2, 3)
 print(nums[0])
