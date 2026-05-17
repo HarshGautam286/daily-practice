@@ -366,6 +366,7 @@ Project: Basic ML demo ✅
 *	Input types
 *	Labels, buttons
 *	Tables revision
+*	Basic webpage layout
 
 
 
