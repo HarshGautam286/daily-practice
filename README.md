@@ -376,6 +376,7 @@ Project: Mini Portfolio Page ✅
 *	Array methods practice (map, filter, reduce, find)
 *	DOM manipulation advanced
 *	Event delegation
+*	Local Storage / Session Storage
 
 
 
