@@ -373,6 +373,7 @@ Project: Mini Portfolio Page ✅
 ## Day 27
 📌 Advanced JavaScript / Project Practice
 *	ES6+ concepts revision (let/const, arrow functions, destructuring, spread/rest)
+*	Array methods practice (map, filter, reduce, find)
 
 
 
