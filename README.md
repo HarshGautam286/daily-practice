@@ -371,6 +371,7 @@ Task: Contact form banao <br>
 Project: Mini Portfolio Page ✅
 
 ## Day 27
+📌 Advanced JavaScript / Project Practice
 
 
 
