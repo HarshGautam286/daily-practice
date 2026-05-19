@@ -370,6 +370,9 @@ Project: Basic ML demo ✅
 Task: Contact form banao <br>
 Project: Mini Portfolio Page ✅
 
+## Day 27
+
+
 
 
 
