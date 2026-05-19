@@ -377,6 +377,7 @@ Project: Mini Portfolio Page ✅
 *	DOM manipulation advanced
 *	Event delegation
 *	Local Storage / Session Storage
+*	Mini Project: To-Do App / Weather App
 
 
 
