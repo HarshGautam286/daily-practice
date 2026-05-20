@@ -1,6 +1,4 @@
-# daily-practice
-# daily-practice
-
+## daily-practice <br>
 My daily coding practice
 
 ## Day 1
