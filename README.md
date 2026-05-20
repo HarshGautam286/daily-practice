@@ -381,6 +381,8 @@ Project: Mini Portfolio Page ✅
 *	GitHub push daily progress ✅
 
 ## Day 28  
+## Day 28  
+
 *	API basics (What is API, GET/POST requests)
 *	Python requests library practice
 *	JSON data handling
