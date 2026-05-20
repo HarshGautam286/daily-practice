@@ -385,6 +385,7 @@ Project: Mini Portfolio Page ✅
 *	Python requests library practice
 *	JSON data handling
 *	Fetch data from public API
+*	Data cleaning from API response using Pandas
 
 
 
