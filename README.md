@@ -384,6 +384,7 @@ Project: Mini Portfolio Page ✅
 *	API basics (What is API, GET/POST requests)
 *	Python requests library practice
 *	JSON data handling
+*	Fetch data from public API
 
 
 
