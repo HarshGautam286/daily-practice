@@ -380,7 +380,8 @@ Project: Mini Portfolio Page ✅
 *	Mini Project: To-Do App / Weather App
 *	GitHub push daily progress ✅
 
-## Day 28
+## Day 28  
+*	API basics (What is API, GET/POST requests)
 
 
 
