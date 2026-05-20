@@ -386,6 +386,7 @@ Project: Mini Portfolio Page ✅
 *	JSON data handling
 *	Fetch data from public API
 *	Data cleaning from API response using Pandas
+*	Mini Project: Weather Data Analyzer / Movie API Project
 
 
 
