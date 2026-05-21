@@ -394,6 +394,7 @@ Project: Mini Portfolio Page ✅
 *	HTML structure understanding
 *	Extract data from websites
 *	Store scraped data in CSV / Excel using Pandas
+*	Data cleaning on scraped dataset
 
 
 
