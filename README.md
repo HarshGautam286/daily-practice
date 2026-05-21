@@ -393,6 +393,7 @@ Project: Mini Portfolio Page ✅
 *	Web Scraping basics (BeautifulSoup, requests)
 *	HTML structure understanding
 *	Extract data from websites
+*	Store scraped data in CSV / Excel using Pandas
 
 
 
