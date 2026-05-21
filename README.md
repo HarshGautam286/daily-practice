@@ -390,6 +390,7 @@ Project: Mini Portfolio Page ✅
 *	GitHub push daily progress ✅
 
 ## Day 29
+*	Web Scraping basics (BeautifulSoup, requests)
 
 
 
