@@ -391,6 +391,7 @@ Project: Mini Portfolio Page ✅
 
 ## Day 29
 *	Web Scraping basics (BeautifulSoup, requests)
+*	HTML structure understanding
 
 
 
