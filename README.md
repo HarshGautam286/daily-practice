@@ -396,6 +396,7 @@ Project: Mini Portfolio Page ✅
 *	Store scraped data in CSV / Excel using Pandas
 *	Data cleaning on scraped dataset
 *	Mini Project: Amazon/Product Price Tracker or News Scraper
+*	GitHub push daily progress ✅
 
 
 
