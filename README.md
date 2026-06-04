@@ -1,5 +1,5 @@
 ## daily-practice <br>
-harshgauta
+harshgautam
 My daily coding practice
 
 ## Day 1
