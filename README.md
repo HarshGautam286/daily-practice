@@ -1,5 +1,5 @@
 ## daily-practice <br>
-ha
+har
 My daily coding practice
 
 ## Day 1
