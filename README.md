@@ -1,4 +1,3 @@
-harshgautam286jqwettyu
 ## daily-practice <br>
 harshgautamyes
 My daily coding practice
