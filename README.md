@@ -1,4 +1,4 @@
-harshgau
+harshgaut
 ## daily-practice <br>
 harshgautamyes
 My daily coding practice
