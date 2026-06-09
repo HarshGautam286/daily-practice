@@ -1,4 +1,4 @@
-tqazqweryuyui
+tqazqweryuyuio
 ## daily-practice <br>
 harshgautamyes
 My daily coding practice
