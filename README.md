@@ -1,6 +1,5 @@
-801234567891234567
+
 ## daily-practice <br>
-harshgautamyes
 My daily coding practice
 
 ## Day 1
