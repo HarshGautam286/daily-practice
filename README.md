@@ -1,6 +1,6 @@
 12345678901
 yes ho
-im just say
+im just say how
 ## daily-practice <br>
 My daily coding practice
 
