@@ -1,4 +1,4 @@
-1234526
+12345267
 ## daily-practice <br>
 My daily coding practice
 
