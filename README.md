@@ -1,4 +1,4 @@
-10
+101
 ## daily-practice <br>
 My daily coding practice
 
