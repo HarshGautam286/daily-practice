@@ -1,4 +1,4 @@
-1
+0
 ## daily-practice <br>
 My daily coding practice
 
