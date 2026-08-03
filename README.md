@@ -1,4 +1,4 @@
-12345
+25
 ## daily-practice <br>
 My daily coding practice
 
