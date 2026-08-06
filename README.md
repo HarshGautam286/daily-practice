@@ -1,4 +1,4 @@
-0123456
+1
 ## daily-practice <br>
 My daily coding practice
 
