@@ -1,4 +1,4 @@
-1w
+1we
 ## daily-practice <br>
 My daily coding practice
 
