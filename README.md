@@ -1,4 +1,4 @@
-1weqryt
+1weqryti
 ## daily-practice <br>
 My daily coding practice
 
