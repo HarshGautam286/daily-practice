@@ -1,6 +1,6 @@
 01234567
 89012345
-56
+567
 ## daily-practice <br>
 My daily coding practice
 
