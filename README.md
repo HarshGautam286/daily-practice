@@ -1,6 +1,4 @@
-01234567
-89012345
-56789
+0
 ## daily-practice <br>
 My daily coding practice
 
