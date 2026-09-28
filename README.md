@@ -1,4 +1,4 @@
-00123456
+001234567
 ## daily-practice <br>
 My daily coding practice
 
