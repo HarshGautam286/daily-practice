@@ -1,4 +1,4 @@
-0.1.
+0.1.2.
 ## daily-practice <br>
 My daily coding practice
 
