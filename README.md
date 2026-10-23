@@ -1,6 +1,4 @@
-0.20.12.11.12.17.
-3.4.5.6.13.14.18.20.
-7.8.90.10.15.16.19.
+0.
 ## daily-practice <br>
 My daily coding practice
 
