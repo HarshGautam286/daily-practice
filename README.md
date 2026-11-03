@@ -1,4 +1,6 @@
-0.1.2.3.4.
+0.
+022
+
 ## daily-practice <br>
 My daily coding practice
 
